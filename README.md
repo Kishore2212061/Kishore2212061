@@ -1,105 +1,134 @@
-<h1 align="center">Hey there! 👋 I'm Kishore Kumar</h1>
+<!DOCTYPE html>
+<html lang="en" style="margin: 0; padding: 0; box-sizing: border-box;">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kishore Kumar - Portfolio</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body style="margin: 0; padding: 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; color: #adbac7; background-color: #22272e;">
+    <div style="max-width: 1200px; margin: 0 auto; padding: 2rem;">
+        <header style="text-align: center; padding: 4rem 0; background: linear-gradient(135deg, #2d333b 0%, #22272e 100%); border-radius: 1rem; margin-bottom: 3rem;">
+            <div style="animation: fadeIn 0.8s ease-out forwards;">
+                <h1 style="font-size: 2.5rem; color: #ffffff; margin-bottom: 1rem;">Hey there! 👋 I'm Kishore Kumar</h1>
+                <p style="font-size: 1.2rem; margin-bottom: 2rem;">🚀 Full Stack & Mobile App Developer | 👨‍💻 Problem Solver | 💡 Lifelong Learner</p>
+                <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap;">
+                    <a href="http://kishore-kumar-j-portfolio.onrender.com/" style="display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.8rem 1.5rem; background-color: #539bf5; color: white; text-decoration: none; border-radius: 0.5rem; transition: transform 0.2s;"><i class="fas fa-globe"></i> Portfolio</a>
+                    <a href="https://www.linkedin.com/in/kishore-kumar-j-79d/" style="display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.8rem 1.5rem; background-color: #539bf5; color: white; text-decoration: none; border-radius: 0.5rem; transition: transform 0.2s;"><i class="fab fa-linkedin"></i> LinkedIn</a>
+                    <a href="mailto:mersalkishore79@gmail.com" style="display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.8rem 1.5rem; background-color: #539bf5; color: white; text-decoration: none; border-radius: 0.5rem; transition: transform 0.2s;"><i class="fas fa-envelope"></i> Email Me</a>
+                </div>
+            </div>
+        </header>
 
-<p align="center">
-  🚀 Full Stack & Mobile App Developer | 👨‍💻 Problem Solver | 💡 Lifelong Learner
-</p>
+        <section style="background-color: #2d333b; border-radius: 1rem; padding: 2rem; margin-bottom: 2rem;">
+            <h2 style="color: #ffffff; margin-bottom: 1.5rem; font-size: 1.8rem;">🧠 About Me</h2>
+            <div>
+                <ul style="list-style: none;">
+                    <li style="margin-bottom: 1rem;">🔭 Currently building Web3 apps at <strong>Vlinder.io</strong></li>
+                    <li style="margin-bottom: 1rem;">🌱 Exploring <strong>Solidity</strong>, <strong>Smart Contract Security</strong>, and <strong>Full Stack Architecture</strong></li>
+                    <li style="margin-bottom: 1rem;">💬 Ask me about <strong>React</strong>, <strong>Node.js</strong>, <strong>MongoDB</strong>, <strong>Solidity</strong>, and <strong>TypeScript</strong></li>
+                    <li style="margin-bottom: 1rem;">📈 I love turning ideas into products through clean code & UI</li>
+                    <li style="margin-bottom: 1rem;">🧩 Hobbies: Debugging stuff, DSA, and tinkering with frontend animations</li>
+                </ul>
+            </div>
+        </section>
 
-<p align="center">
-  <a href="http://kishore-kumar-j-portfolio.onrender.com/">🌐 My Portfolio</a> • 
-  <a href="https://www.linkedin.com/in/kishore-kumar-j-79d/">💼 LinkedIn</a> • 
-  <a href="mailto:mersalkishore79@gmail.com">📧 Email Me</a>
-</p>
+        <section style="background-color: #2d333b; border-radius: 1rem; padding: 2rem; margin-bottom: 2rem;">
+            <h2 style="color: #ffffff; margin-bottom: 1.5rem; font-size: 1.8rem;">🛠️ Tech Stack & Skills</h2>
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 2rem;">
+                <div>
+                    <h3 style="color: #ffffff; margin-bottom: 1rem;">👨‍💻 Languages</h3>
+                    <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
+                        <span style="background-color: #444c56; padding: 0.5rem 1rem; border-radius: 2rem; font-size: 0.9rem;">JavaScript</span>
+                        <span style="background-color: #444c56; padding: 0.5rem 1rem; border-radius: 2rem; font-size: 0.9rem;">TypeScript</span>
+                        <span style="background-color: #444c56; padding: 0.5rem 1rem; border-radius: 2rem; font-size: 0.9rem;">C++</span>
+                        <span style="background-color: #444c56; padding: 0.5rem 1rem; border-radius: 2rem; font-size: 0.9rem;">Java</span>
+                        <span style="background-color: #444c56; padding: 0.5rem 1rem; border-radius: 2rem; font-size: 0.9rem;">Python</span>
+                    </div>
+                </div>
+                <div>
+                    <h3 style="color: #ffffff; margin-bottom: 1rem;">🧱 Frontend</h3>
+                    <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
+                        <span style="background-color: #444c56; padding: 0.5rem 1rem; border-radius: 2rem; font-size: 0.9rem;">React.js</span>
+                        <span style="background-color: #444c56; padding: 0.5rem 1rem; border-radius: 2rem; font-size: 0.9rem;">React Native</span>
+                        <span style="background-color: #444c56; padding: 0.5rem 1rem; border-radius: 2rem; font-size: 0.9rem;">HTML5</span>
+                        <span style="background-color: #444c56; padding: 0.5rem 1rem; border-radius: 2rem; font-size: 0.9rem;">CSS3</span>
+                        <span style="background-color: #444c56; padding: 0.5rem 1rem; border-radius: 2rem; font-size: 0.9rem;">Zustand</span>
+                        <span style="background-color: #444c56; padding: 0.5rem 1rem; border-radius: 2rem; font-size: 0.9rem;">Bootstrap</span>
+                    </div>
+                </div>
+                <div>
+                    <h3 style="color: #ffffff; margin-bottom: 1rem;">🧪 Backend & APIs</h3>
+                    <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
+                        <span style="background-color: #444c56; padding: 0.5rem 1rem; border-radius: 2rem; font-size: 0.9rem;">Node.js</span>
+                        <span style="background-color: #444c56; padding: 0.5rem 1rem; border-radius: 2rem; font-size: 0.9rem;">Express.js</span>
+                        <span style="background-color: #444c56; padding: 0.5rem 1rem; border-radius: 2rem; font-size: 0.9rem;">Firebase</span>
+                    </div>
+                </div>
+            </div>
+        </section>
 
----
+        <section style="background-color: #2d333b; border-radius: 1rem; padding: 2rem; margin-bottom: 2rem;">
+            <h2 style="color: #ffffff; margin-bottom: 1.5rem; font-size: 1.8rem;">💼 Work Experience</h2>
+            <div style="background-color: #22272e; padding: 1.5rem; border-radius: 0.5rem; margin-bottom: 1.5rem;">
+                <h3 style="color: #ffffff; margin-bottom: 0.5rem;">🚀 Mobile App Developer & Backend Developer Intern @ Vlinder.io</h3>
+                <p style="color: #539bf5; font-size: 0.9rem; margin-bottom: 1rem;">Jan 2024 – Present</p>
+                <ul style="list-style: none; margin-left: 1rem;">
+                    <li>Building sustainability-focused mobile apps with React Native</li>
+                    <li>Working with backend services and APIs</li>
+                    <li>Collaborating on real-time full stack features</li>
+                </ul>
+            </div>
+            <div style="background-color: #22272e; padding: 1.5rem; border-radius: 0.5rem; margin-bottom: 1.5rem;">
+                <h3 style="color: #ffffff; margin-bottom: 0.5rem;">💻 MERN Stack Intern @ EmERTEX</h3>
+                <p style="color: #539bf5; font-size: 0.9rem; margin-bottom: 1rem;">Jun 2023 – Jul 2023</p>
+                <ul style="list-style: none; margin-left: 1rem;">
+                    <li>Developed a tourism web app for hotel bookings</li>
+                    <li>Integrated APIs and built responsive UIs in React.js</li>
+                </ul>
+            </div>
+        </section>
 
-### 🧠 About Me
+        <section style="background-color: #2d333b; border-radius: 1rem; padding: 2rem; margin-bottom: 2rem;">
+            <h2 style="color: #ffffff; margin-bottom: 1.5rem; font-size: 1.8rem;">🌟 Projects</h2>
+            <div style="background-color: #22272e; padding: 1.5rem; border-radius: 0.5rem; margin-bottom: 1.5rem;">
+                <h3 style="color: #ffffff; margin-bottom: 1rem;">📄 Faculty Information and Workflow Management System</h3>
+                <a href="https://github.com/Kishore2212061/faculty-info-workflow" style="display: inline-flex; align-items: center; gap: 0.5rem; color: #539bf5; text-decoration: none; margin-bottom: 1rem;">
+                    <i class="fab fa-github"></i> View on GitHub
+                </a>
+                <p style="margin-bottom: 1rem;">A full-stack academic record and application system built using <strong>React</strong>, <strong>NestJS</strong>, and <strong>MongoDB</strong>.</p>
+                <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
+                    <span style="background-color: #444c56; padding: 0.5rem 1rem; border-radius: 2rem; font-size: 0.9rem;">💼 Login & Register with MySQL</span>
+                    <span style="background-color: #444c56; padding: 0.5rem 1rem; border-radius: 2rem; font-size: 0.9rem;">🧑‍🏫 Admin Dashboard</span>
+                    <span style="background-color: #444c56; padding: 0.5rem 1rem; border-radius: 2rem; font-size: 0.9rem;">🧠 LeetCode-style Interface</span>
+                    <span style="background-color: #444c56; padding: 0.5rem 1rem; border-radius: 2rem; font-size: 0.9rem;">📄 Multi-section Forms</span>
+                    <span style="background-color: #444c56; padding: 0.5rem 1rem; border-radius: 2rem; font-size: 0.9rem;">🔁 Queue-based Processing</span>
+                    <span style="background-color: #444c56; padding: 0.5rem 1rem; border-radius: 2rem; font-size: 0.9rem;">🎨 Responsive UI</span>
+                </div>
+            </div>
+        </section>
 
-- 🔭 Currently building Web3 apps at **Vlinder.io**
-- 🌱 Exploring **Solidity**, **Smart Contract Security**, and **Full Stack Architecture**
-- 💬 Ask me about **React**, **Node.js**, **MongoDB**, **Solidity**, and **TypeScript**
-- 📈 I love turning ideas into products through clean code & UI
-- 🧩 Hobbies: Debugging stuff, DSA, and tinkering with frontend animations
+        <footer style="text-align: center; padding: 2rem 0;">
+            <p>Thanks for stopping by! Keep building amazing things 🚀</p>
+            <div style="display: flex; justify-content: center; gap: 2rem; margin-top: 1rem;">
+                <a href="http://kishore-kumar-j-portfolio.onrender.com/" style="color: #adbac7; text-decoration: none; display: flex; align-items: center; gap: 0.5rem;"><i class="fas fa-globe"></i> Portfolio</a>
+                <a href="https://www.linkedin.com/in/kishore-kumar-j-79d/" style="color: #adbac7; text-decoration: none; display: flex; align-items: center; gap: 0.5rem;"><i class="fab fa-linkedin"></i> LinkedIn</a>
+                <a href="mailto:mersalkishore79@gmail.com" style="color: #adbac7; text-decoration: none; display: flex; align-items: center; gap: 0.5rem;"><i class="fas fa-envelope"></i> Email</a>
+            </div>
+        </footer>
+    </div>
 
----
-
-### 🛠️ Tech Stack & Skills
-
-#### 👨‍💻 Languages  
-`JavaScript` `TypeScript` `C++` `Java` `Python`
-
-#### 🧱 Frontend  
-`React.js` `React Native` `HTML5` `CSS3` `Zustand` `Bootstrap`
-
-#### 🧪 Backend & APIs  
-`Node.js` `Express.js` `Firebase`
-
-#### 🗄️ Databases  
-`MongoDB` `MySQL`
-
-#### 🔗 Blockchain  
-`Solidity` `Ethereum` `SPV Proofs` `Smart Contracts`
-
-#### 🧰 Tools & Platforms  
-`Git` `GitHub` `VS Code` `Postman` `Figma`
-
----
-
-### 💼 Work Experience
-
-**🚀 Mobile App Developer & Backend Developer Intern @ Vlinder.io**  
-*Jan 2024 – Present*  
-- Building sustainability-focused mobile apps with React Native  
-- Working with backend services and APIs  
-- Collaborating on real-time full stack features
-
-**💻 MERN Stack Intern @ EmERTEX**  
-*Jun 2023 – Jul 2023*  
-- Developed a tourism web app for hotel bookings  
-- Integrated APIs and built responsive UIs in React.js  
-
----
-
-## 🌟 Projects
-
-### 📄 Faculty Information and Workflow Management System  
-🔗 [View Project on GitHub](https://github.com/Kishore2212061/faculty-info-workflow)
-
-A full-stack academic record and application system built using **React**, **NestJS**, and **MongoDB**.
-
-**Key Features:**
-- 💼 Login & Register with MySQL (XAMPP)
-- 🧑‍🏫 Admin dashboard for question/test case management
-- 🧠 LeetCode-style problem-solving interface
-- 📄 Multi-section application form (Personal, Education, Experience, Publications)
-- 🔁 Queue-based document processing with **XState**
-- 🎨 Responsive UI using **Tailwind CSS**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kishore2212061&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishore2212061&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kishore2212061&theme=radical&border_radius=5" alt="GitHub Streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Kishore2212061&theme=radical&margin-w=10&margin-h=15" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kishore2212061&theme=radical" alt="Activity Graph" />
-</p>
-
----
-
-### 🔗 Let's Connect!
-
-- 🌐 Portfolio: [kishore-kumar-j-portfolio.onrender.com](http://kishore-kumar-j-portfolio.onrender.com/)
-- 💼 LinkedIn: [linkedin.com/in/kishore-kumar-j-79d](https://www.linkedin.com/in/kishore-kumar-j-79d/)
-- 📧 Email: [mersalkishore79@gmail.com](mailto:mersalkishore79@gmail.com)
-
----
-
-<p align="center"><em>Thanks for stopping by! Keep building amazing things 🚀</em></p>
+    <style>
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+    </style>
+</body>
+</html>
