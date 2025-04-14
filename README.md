@@ -78,6 +78,8 @@ A full-stack academic management system built using React + NestJS + MongoDB.
 
 ![Kishore's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kishore2212061&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishore2212061&layout=compact&theme=radical)
+[![Kishore's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kishore2212061)](https://wakatime.com/@Kishore2212061)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishore2212061&layout=compact&theme=radical)
 
 
 ---
