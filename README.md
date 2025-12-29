@@ -79,9 +79,31 @@ A full-stack academic record and application system built using **React**, **Nes
 ## 📊 GitHub Stats
 
 
+### 📊 GitHub Stats
+
+![Stats](https://github-readme-stats-fast.vercel.app/api?username=Kishore2212061&show_icons=true&theme=radical&cache_seconds=0)  
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Kishore2212061&layout=compact&theme=radical)  
+
+---
+
+### 🔥 Contribution Streak
+
+![Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=Kishore2212061&show_icons=true&theme=radical)
+
+---
+
+### ⏲ WakaTime Stats
+
+![WakaTime](https://github-readme-stats-fast.vercel.app/api/wakatime?username=Kishore2212061)
+
+---
+
+### 👁 Profile Views
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?username=Kishore2212061&theme=radical&border_radius=5" alt="GitHub Streak" />
+  <img src="https://komarev.com/ghpvc/?username=Kishore2212061&label=Profile%20views&color=0e75b6&style=flat" alt="Pranesh-2005" />
 </p>
+--->
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kishore2212061&theme=radical" alt="Activity Graph" />
