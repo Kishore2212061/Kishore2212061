@@ -89,20 +89,6 @@ A full-stack academic record and application system built using **React**, **Nes
 ### 🔥 Contribution Streak
 
 ![Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=Kishore2212061&show_icons=true&theme=radical)
-
----
-
-### ⏲ WakaTime Stats
-
-![WakaTime](https://github-readme-stats-fast.vercel.app/api/wakatime?username=Kishore2212061)
-
----
-
-### 👁 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kishore2212061&label=Profile%20views&color=0e75b6&style=flat" alt="Pranesh-2005" />
-</p>
 --->
 
 <p align="center">
