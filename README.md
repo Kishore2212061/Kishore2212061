@@ -80,7 +80,7 @@ A full-stack academic record and application system built using **React**, **Nes
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kishore2212061&theme=radical&border_radius=5" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?username=Kishore2212061&theme=radical&border_radius=5" alt="GitHub Streak" />
 </p>
 
 <p align="center">
