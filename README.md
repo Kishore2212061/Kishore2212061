@@ -78,14 +78,9 @@ A full-stack academic record and application system built using **React**, **Nes
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kishore2212061&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishore2212061&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Kishore2212061&theme=radical&border_radius=5" alt="GitHub Streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Kishore2212061&theme=radical&margin-w=10&margin-h=15" alt="Trophies" />
 </p>
 
 <p align="center">
