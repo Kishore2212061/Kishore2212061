@@ -1,108 +1,122 @@
-<h1 align="center">Hey there! 👋 I'm Kishore Kumar</h1>
+<h1 align="center">Hey 👋 I'm Kishore Kumar</h1>
+
+<h3 align="center">🚀 Full Stack & Mobile App Developer | Web3 Explorer | Problem Solver</h3>
 
 <p align="center">
-  🚀 Full Stack & Mobile App Developer | 👨‍💻 Problem Solver | 💡 Lifelong Learner
-</p>
-
-<p align="center">
-  <a href="http://kishore-kumar-j-portfolio.onrender.com/">🌐 My Portfolio</a> • 
-  <a href="https://www.linkedin.com/in/kishore-kumar-j-79d/">💼 LinkedIn</a> • 
-  <a href="mailto:mersalkishore79@gmail.com">📧 Email Me</a>
+  <a href="http://kishore-kumar-j-portfolio.onrender.com/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kishore-kumar-j-79d/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:mersalkishore79@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Reach%20Me-red?style=for-the-badge&logo=gmail"/>
+  </a>
 </p>
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 
-- 🔭 Currently building Web3 apps at **Vlinder.io**
-- 🌱 Exploring **Solidity**, **Smart Contract Security**, and **Full Stack Architecture**
-- 💬 Ask me about **React**, **Node.js**, **MongoDB**, **Solidity**, and **TypeScript**
-- 📈 I love turning ideas into products through clean code & UI
-- 🧩 Hobbies: Debugging stuff, DSA, and tinkering with frontend animations
+✨ Passionate developer who enjoys building scalable apps and exploring blockchain innovation  
+
+- 🔭 Currently building **Web3 applications at Vlinder.io**
+- 🌱 Learning **Smart Contract Security, Solidity & Architecture Design**
+- 💬 Ask me about **React • Node.js • MongoDB • TypeScript • Solidity**
+- 🎯 I love transforming ideas into polished products
+- 🧩 Fun stuff: Debugging challenges, DSA, UI animations
 
 ---
 
-### 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack
 
-#### 👨‍💻 Languages  
-`JavaScript` `TypeScript` `C++` `Java` `Python`
+### 👨‍💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,cpp,java,python" />
+</p>
 
-#### 🧱 Frontend  
-`React.js` `React Native` `HTML5` `CSS3` `Zustand` `Bootstrap`
+### 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
+</p>
 
-#### 🧪 Backend & APIs  
-`Node.js` `Express.js` `Firebase`
+### ⚙️ Backend & APIs
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
+</p>
 
-#### 🗄️ Databases  
-`MongoDB` `MySQL`
+### 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
-#### 🔗 Blockchain  
+### 🔗 Blockchain
 `Solidity` `Ethereum` `SPV Proofs` `Smart Contracts`
 
-#### 🧰 Tools & Platforms  
-`Git` `GitHub` `VS Code` `Postman` `Figma`
-
----
-
-### 💼 Work Experience
-
-**🚀 Mobile App Developer & Backend Developer Intern @ Vlinder.io**  
-*Jan 2024 – Present*  
-- Building sustainability-focused mobile apps with React Native  
-- Working with backend services and APIs  
-- Collaborating on real-time full stack features
-
-**💻 MERN Stack Intern @ EmERTEX**  
-*Jun 2023 – Jul 2023*  
-- Developed a tourism web app for hotel bookings  
-- Integrated APIs and built responsive UIs in React.js  
-
----
-
-## 🌟 Projects
-
-### 📄 Faculty Information and Workflow Management System  
-🔗 [View Project on GitHub](https://github.com/Kishore2212061/faculty-info-workflow)
-
-A full-stack academic record and application system built using **React**, **NestJS**, and **MongoDB**.
-
-**Key Features:**
-- 💼 Login & Register with MySQL (XAMPP)
-- 🧑‍🏫 Admin dashboard for question/test case management
-- 🧠 LeetCode-style problem-solving interface
-- 📄 Multi-section application form (Personal, Education, Experience, Publications)
-- 🔁 Queue-based document processing with **XState**
-- 🎨 Responsive UI using **Tailwind CSS**
-
----
-
-## 📊 GitHub Stats
-
-
-### 📊 GitHub Stats
-
-![Stats](https://github-readme-stats-fast.vercel.app/api?username=Kishore2212061&show_icons=true&theme=radical&cache_seconds=0)  
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Kishore2212061&layout=compact&theme=radical)  
-
----
-
-### 🔥 Contribution Streak
-
-![Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=Kishore2212061&show_icons=true&theme=radical)
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kishore2212061&theme=radical" alt="Activity Graph" />
+### 🧰 Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 </p>
 
 ---
 
-### 🔗 Let's Connect!
+## 💼 Experience
 
-- 🌐 Portfolio: [kishore-kumar-j-portfolio.onrender.com](http://kishore-kumar-j-portfolio.onrender.com/)
-- 💼 LinkedIn: [linkedin.com/in/kishore-kumar-j-79d](https://www.linkedin.com/in/kishore-kumar-j-79d/)
-- 📧 Email: [mersalkishore79@gmail.com](mailto:mersalkishore79@gmail.com)
+### 🚀 Mobile App & Backend Developer Intern — Vlinder.io  
+**Jan 2024 – Present**
+- Developed sustainability-focused mobile apps using React Native  
+- Built backend APIs & full-stack features  
+- Worked on real-time production workflows  
+
+### 💻 MERN Stack Intern — EmERTEX  
+**Jun 2023 – Jul 2023**
+- Built tourism booking web application  
+- Integrated APIs & responsive UI with React  
 
 ---
 
-<p align="center"><em>Thanks for stopping by! Keep building amazing things 🚀</em></p>
+## 🌟 Featured Project
+
+### 📄 Faculty Information & Workflow Management System
+🔗 https://github.com/Kishore2212061/faculty-info-workflow  
+
+Full-stack academic workflow system built with **React, NestJS, MongoDB**
+
+**Highlights**
+- 🔐 Auth with MySQL  
+- 🧑‍🏫 Admin dashboard  
+- 🧠 Coding interface  
+- 📄 Multi-stage forms  
+- 🔁 Queue processing using XState  
+- 🎨 Tailwind responsive UI  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Kishore2212061&show_icons=true&theme=radical" height="170"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Kishore2212061&layout=compact&theme=radical" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Kishore2212061&theme=radical"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kishore2212061&theme=radical"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+- 🌐 Portfolio — http://kishore-kumar-j-portfolio.onrender.com/  
+- 💼 LinkedIn — https://linkedin.com/in/kishore-kumar-j-79d  
+- 📧 Email — mersalkishore79@gmail.com  
+
+---
+
+<p align="center">
+  ⭐ <em>Thanks for visiting! Let’s build something impactful 🚀</em>
+</p>
