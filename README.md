@@ -2,6 +2,12 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kishore%20Kumar%20J&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35" />
 
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Kishore2212061&label=⚡+Views&color=00D9FF&style=for-the-badge)
+
+<br>
+
 # `$ whoami`
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&random=false&width=800&height=100&lines=Full+Stack+Engineer+%7C+Web3+Dev;Building+Scalable+%26+Decentralized+Systems;const+passion+%3D+code+%2B+coffee+%2B+chaos;Blockchain+%7C+DeFi+%7C+Smart+Contracts" alt="Typing SVG" />
